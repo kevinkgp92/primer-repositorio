@@ -7,5 +7,8 @@ Proceso prog4
 		vector[i] <- Aleatorio(1,10);
 	FinPara
 	
+	Para i<-0 hasta 9 hacer 
+		Escribir vector[i];
+	FinPara
 	
 FinProceso
